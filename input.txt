@@ -1,0 +1,39 @@
+2 
+Julia Alvarez
+j1254
+ju1254
+3.26
+7
+2
+Matt Jones
+ma0258
+2.78
+0
+A
+1
+John Miller
+jo7894
+Instructor
+Assistant Professor
+Professor
+Engineering
+3
+ju1254
+3
+ja1954
+4
+jo7894
+6
+ha5879
+5
+Jamal Kareem
+ja6980
+English
+f
+6
+ja6980
+7
+ab1234
+8
+y
+1
